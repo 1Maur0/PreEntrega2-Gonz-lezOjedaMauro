@@ -1,0 +1,59 @@
+
+
+.logo {
+    width: 120px;
+}
+/*navs colors*/
+.colorfondo {
+    background-color: black;
+}
+
+.colorfondored{
+    background-color: rgb(75, 6, 6);
+}
+.bluenav{
+    background-color: rgb(0, 0, 94);
+}
+.yellownav{
+    background-color: rgb(172, 172, 0);
+}
+/*bodys colors*/
+
+.bodyindex{
+    background-color: rgb(71, 67, 67);  
+}
+.redbody{
+    background-color: rgb(241, 77, 77);
+}
+
+.bluebody{
+    background-color: rgb(64, 64, 197);
+}
+.yellowbody{
+    background-color: rgb(255, 255, 104);
+}
+/*nav bottons*/
+.redcolor{color:red;
+}
+.bluecolor{
+    color: blue;
+}
+.yellowcolor{
+    color: yellow;
+}
+/*carrousel*/
+.imgcarrousel{
+    width: 50%;
+    height: 400px;
+    object-fit: center;
+    margin-left: 23%;
+}
+.carousel-control-prev{
+    margin-left: 17%;
+}
+.carousel-control-next{
+    margin-right: 17%;
+}
+.pinturalogo {
+    width: 2000px;
+    height: 2000px;}
